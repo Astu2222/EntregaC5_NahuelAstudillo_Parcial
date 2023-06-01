@@ -1,0 +1,13 @@
+.cardQatar{
+    background: rgb(7,4,84);
+    background: -moz-radial-gradient(circle, rgba(7,4,84,1) 5%, rgba(93,170,185,1) 100%);
+    background: -webkit-radial-gradient(circle, rgba(7,4,84,1) 5%, rgba(93,170,185,1) 100%);
+    background: radial-gradient(circle, rgba(7,4,84,1) 5%, rgba(93,170,185,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#070454",endColorstr="#5daab9",GradientType=1);
+    border-radius: 20px;
+}
+
+.cardQatar img{
+    width: 550px;
+    border-radius: 20px;
+}

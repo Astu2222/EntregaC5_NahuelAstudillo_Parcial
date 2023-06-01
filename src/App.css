@@ -40,3 +40,26 @@
 .read-the-docs {
   color: #888;
 }
+
+body{
+  background: rgb(2,0,36);
+  background: -moz-linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(40,40,77,1) 47%, rgba(11,110,130,1) 100%);
+  background: -webkit-linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(40,40,77,1) 47%, rgba(11,110,130,1) 100%);
+  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(40,40,77,1) 47%, rgba(11,110,130,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#020024",endColorstr="#0b6e82",GradientType=1);
+}
+
+input {
+  background: rgb(60,56,162);
+  background: -moz-linear-gradient(90deg, rgba(60,56,162,1) 5%, rgba(93,170,185,1) 100%);
+  background: -webkit-linear-gradient(90deg, rgba(60,56,162,1) 5%, rgba(93,170,185,1) 100%);
+  background: linear-gradient(90deg, rgba(60,56,162,1) 5%, rgba(93,170,185,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3c38a2",endColorstr="#5daab9",GradientType=1);
+  color: white; /* Ajusta el color del texto según tus preferencias */
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+  /* Agrega cualquier otro estilo adicional que desees */
+}
+
